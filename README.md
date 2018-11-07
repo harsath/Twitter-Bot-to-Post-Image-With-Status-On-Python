@@ -1,5 +1,5 @@
 # Twitter-Bot-to-Post-Image-With-Status-On-Python
-## This Python Script Bot will Upload Images and With Status onto the Twitter Account
+## This Python Script Bot will Upload Images and With Status onto the Twitter Account on Twitter
 ### --> To use this Script you Must have a Developer Account.
 ### --> You can get one by Going onto www.apps.twitter.com and Create an App
 ### --> Once you Done You will have API Keys and You Should Copy and Paste on the Bot Python File
