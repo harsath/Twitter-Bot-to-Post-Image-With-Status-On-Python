@@ -3,9 +3,9 @@
 ### --> To use this Script you Must have a Developer Account.
 ### --> You can get one by Going onto www.apps.twitter.com and Create an App
 ### --> Once you Done You will have API Keys and You Should Copy and Paste on the Bot Python File
-![screenshot from 2018-11-07 09-19-13](https://user-images.githubusercontent.com/30565388/48110594-05218780-e273-11e8-9a93-6302d2988732.png)
+![credits](https://user-images.githubusercontent.com/30565388/48110792-2afb5c00-e274-11e8-89e6-664a276c953e.png)
 ### --> Then you Should Specify the URL to Scrap Images
-![screenshot from 2018-11-07 09-19-13](https://user-images.githubusercontent.com/30565388/48110594-05218780-e273-11e8-9a93-6302d2988732.png)
+![screenshot from 2018-11-07 09-18-43](https://user-images.githubusercontent.com/30565388/48110799-3c446880-e274-11e8-9d5c-6e45666c9849.png)
 ### --> After Specifing all these, You should run the Image Scraping File and then the Tweet Bot File
 ![screenshot from 2018-11-07 09-16-01](https://user-images.githubusercontent.com/30565388/48110447-2fbf1080-e272-11e8-9d1e-b6e41557f359.png)
 ### --> Once you Run the Image Scraping File, It will Create Two Directories 
