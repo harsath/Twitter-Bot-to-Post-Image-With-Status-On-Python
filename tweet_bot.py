@@ -3,10 +3,11 @@ import time
 import os
 
 #These Variables Contains our Twitter API Credentials
-CONSUMER_API_KEY = "402wQf4M6ot5i1aM6Azfjb7oo"
-CONSUMER_API_SEC = "ypeQp54kTESW2hLgpNzbRiFZafg4Gw00qYcmiQosGBM4q4YED6"
-ACCESS_TOKEN = "1059616729213546497-xARRms7dQicurzDXGLwJSddLe0aQTI"
-ACCESS_TOKEN_SEC = "E24ZgyiEXQozZntQ1WVbtxep0TcjiyMPBpJ8ZximOVPPz"
+#You Should Past you Account's API Keys
+CONSUMER_API_KEY = ""
+CONSUMER_API_SEC = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SEC = ""
 
 #Getting access into the Twiter API
 auth = tp.OAuthHandler(consumer_key=CONSUMER_API_KEY, consumer_secret=CONSUMER_API_SEC)
