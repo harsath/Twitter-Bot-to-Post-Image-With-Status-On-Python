@@ -14,3 +14,7 @@
 ![example](https://user-images.githubusercontent.com/30565388/48110762-f5ef0980-e273-11e8-90d1-864d2799f784.png)
 ## !!! It is Very Important to Declare Valid and Correct Detials on the API Variables or Else the Bot will Not be Executed
 # I recommend using https://pixabay.com Website for Image's Url
+
+### License & copyright
+© Harsath <br>
+<pre> Licensed under the Apache License 2.0.
